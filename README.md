@@ -1,10 +1,7 @@
-# 🌽 FoodBank
+ # 🌽 FoodBank
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## ✍🏼 Description
-
-According to the CONEVAL (Consejo Nacional de Evaluacion de la Politica de Desarrollo Social) found that 22.5% of the population in Mexico are at risk due to a lack of access of nutrititous good quality food.
 
 FoodBank is an idea created as a tool to help the most vulnerable in our community. With the intent to bridge communities to food banks we have created FoodBank. It was thoughtout to be equitable to the community, intuite for its users and innovative for future development.
 
@@ -16,18 +13,8 @@ Using React, mongoDB, Chakra UI and the skills of a multitalented team we have c
 
 - [Important Links](#important-links)
 - [Installation Instructions](#installation-instructions)
-- [Usage Information](#usage-information)
-- [License](#license)
-- [Questions](#questions)
-- [Credits](#👩🏻‍💻👨🏻‍💻credits)
 
-## ‼️ Important Links
-
-- [Github Repository](https://github.com/jony0418/FoodBank.git)
-- [Walkthrough Video]()
-- [Project Presentation]()
-
-## 💻 Technologies
+ 💻 Technologies
 
 FoodBank also uses a variety of dependencies to make this application funtion:
 
@@ -125,23 +112,3 @@ To begin using this application follow the next steps:
 ## Tests Instructions
 
 Not Applicable
-
-## ❓ Questions
-
-If you have any questions you may contact any of the contributing members.
-
-## 👩🏻‍💻👨🏻‍💻 Credits
-
-This proyect was created by:
-
-- [Rodrigo Roldan](https://github.com/RodrigoRoL);
-- [Gerardo Garcia-Salas](https://github.com/SalasGS94);
-- [Santiago Valenzuela](https://github.com/santis1001);
-- [Jose Maria Hernandez ](https://github.com/ChemaKing13);
-- [Isabella Ruiz](https://github.com/isanator2000)
-- [Jonathan Becerra](https://github.com/jony0418);
-- [Andrea Ceron](https://github.com/aceron2205)
-
-## License
-
-This application is covered under the MIT License. For more info, click here: [License: MIT](https://opensource.org/licenses/MIT)
